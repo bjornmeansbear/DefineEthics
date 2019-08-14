@@ -8,9 +8,23 @@ also: https://github.com/bjornmeansbear/designethics
 This is a creative commons licensed project. You are free to share and adapt the materials within as long as you attribute where things came from -- including whatever you adapt/change -- and then agree to share your new works created with this in the same spirit. Source files for things like the Scribus slideshow are
 
 By Kristian Bjornard; Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+
+??? or is https://www.apache.org/licenses/LICENSE-2.0 better???
+
 ```
 
-or is https://www.apache.org/licenses/LICENSE-2.0 better???
+> There are professions more harmful than industrial design, but only very few of them.  
+Victor Papaenk, _Design for the Real World_, 1971
+
+## Ethics.
+
+## Design Ethics?
+
+Design ethcis are meant to help us collectively understand what we should expect from each other and how we should use deisgn out in the world.
+
+We can spin “Do No Harm” into a pretty good criteria for ethically designing.
+
+Focus on doing no harm to the public; then worry about the client; then worry about one's ego; and make sure you don't let down design/your fellow designers... ?
 
 ++++++++++++++++++++++++++++
 
@@ -25,6 +39,8 @@ Design Tensions:
 2. To The Client
 3. To The Public
 4. To The Art of Design itself
+
+(Where do printers, paper makers, etc. fit into this? Colleagues?)
 
 Design should ILLUMINATE problems (not just solve them...) ??? Transcend traditional definition of duty???
 
