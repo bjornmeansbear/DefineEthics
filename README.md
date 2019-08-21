@@ -51,11 +51,15 @@ Moral somewhere-in-between-ism: Most non-philosophers think that both of the abo
 - there are a few absolute ethical rules
 - but a lot of ethical rules depend on the culture
 
-### [Stanford Encyclopedia of Philosophy]
+### [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/)
 
 #### From https://plato.stanford.edu/entries/feminism-environmental/
 - the rightness or wrongness of actions is determined by reference to the consequences of those actions—a familiar consequentialist ethical principle. However, for Leopold, the relevant consequences are the “integrity, stability, and beauty of the biotic community”
 - defend a notion of the self as a relational, ecological being who is a member of the larger biotic (living, organic, ecological) community.
+#### From https://plato.stanford.edu/entries/ethics-business/#CorpMoraAgen
+- One way to think about business ethics is in terms of the moral obligations of agents engaged in business activity. Who is a moral agent? Individual persons, obviously. What about firms? This question is typically described as a question of “corporate moral agency” or “corporate moral responsibility”. Here ‘corporate’ does not refer to the corporation as a legal entity, but to a collective or group of individuals. To be precise, the question is whether firms are moral agents and morally responsible considered as (qua) firms, not considered as aggregates of individual members of firms.
+- firms are morally responsible for what they do, and hence should be seen as “full-fledged” moral persons.
+- perfect information: minimally, consumers have to understand the features of the products for sale.
 
 ## Design Ethics?
 
@@ -72,6 +76,8 @@ How should ethical (moral?) principles guide design operations (deisgn solutions
 clearly lay out the rules for behavior
 
 ++++++++++++++++++++++++++++
+
+I am responsible for my choice of client and for the content I endorse. (http://www.starvingforethics.com/)
 
 Designers should be valued for the ideas embodied in their designs …
 
@@ -111,6 +117,61 @@ It's time. This is our last chance to do anything about the global climate and e
 A note about terminology is relevant here. Many ecofeminist philosophers distinguish between the oppression of women and the (unjustified) domination of nature. (from https://plato.stanford.edu/entries/feminism-environmental/)
 
 Sexism, racism, classism, heterosexism, and ethnocentrism are examples of unjustified “-isms of domination” (from: https://plato.stanford.edu/entries/feminism-environmental/)
+
+first things first: Garland’s manifesto highlights the trivial nature of using graphic design skill purely for advertising. 
+
+first things first 2000: The profession’s time and energy is used up manufacturing demand for things that are inessential at best.
+
+we must judge the value of our design work by the impact it has on the world, good or bad — and it’s up to you to be aware of that impact. (Mike Monteiro)
+
+review and reflect on the impact your designs have on the world, and decide where your own boundaries lie. (https://www.figma.com/resources/learn-design/ethics/)
+
+Empathy, put simply, is an ability to understand the world through other people’s eyes—and put aside our own biases as we do so. (https://www.figma.com/resources/learn-design/ethics/)
+
+no matter what technology or design you look at, even something we consider as well-intended and as good in its effects as Stutzman's Freedom, comes with certain values embedded in it. (https://www.ted.com/talks/sebastian_deterding_what_your_designs_say_about_you/transcript#t-57513)
+
+What values do you use to judge? (https://www.ted.com/talks/sebastian_deterding_what_your_designs_say_about_you/transcript#t-338264)
+
+For Aristotle, Ethics was about the question of how to live life well. (https://www.ted.com/talks/sebastian_deterding_what_your_designs_say_about_you/transcript#t-398146)
+
+Does a design create a vision or aspiration for the good life they present? can design create aspirational "goodness" in a user/reader/viewer/etc.
+
+"What is the vision of the good life that our products, our design, present to us?" (https://www.ted.com/talks/sebastian_deterding_what_your_designs_say_about_you/transcript#t-445026)
+
+No matter whether we as designers intend it or not, we materialize morality. We make certain things harder and easier to do. We organize the existence of people. We put a certain vision of what good or bad or normal or usual is in front of people, by everything we put out there in the world. / Peter-Paul Verbeek / https://www.ted.com/talks/sebastian_deterding_what_your_designs_say_about_you/transcript#t-514141
+
+the design of any product can be a moral dilemma: designers must balance their own economic survival, the financial interest of the client and the well-being of the user. (https://www.ethicsfordesign.com/about)
+
+Ethics is a permanent questioning of what is desirable for the good of all and it is unthinkable that designers do not take their part in this questioning. (https://www.ethicsfordesign.com/about)
+
+Ethics in graphic design remains a predominantly subjective area, rigid rules do not define the appropriate use (or mis-use) of talent. The moral framework is left to the designer’s conscience, often overruled by issues such as finance or career progression. (https://ethicsofdesign.wordpress.com/)
+
+graphic designers and their employers fail to understand the importance and consequence of their actions. (https://ethicsofdesign.wordpress.com/)
+
+Moral ethics to be studied are:
+- Manipulation
+- Corruption
+- Dishonesty
+- Misrepresentation
+- Exploitation
+
+The ethical issues to be addressed often feed into larger issues affecting society. Examples of these include:
+- Human rights
+- Health
+- Discrimination
+- Crime
+- Politics
+- Poverty
+
+from the [ethics of design website](https://ethicsofdesign.wordpress.com/background/moral-ethics/):
+> Moral ethics refers to behaviour and/or conduct which is considered to be right and/or good in relation to the rules of conduct outlined through design education, discussion, set by precedent and moral intuition.
+
+> Designer’s ethical conversations should include a deep self-reflective process related to the decisions they are making, who they are designing for, why, and the social and environmental impact behind the artifacts they are creating.  
+— Juanita Londono
+
+http://www.ethicsingraphicdesign.org/ & http://www.ethicsingraphicdesign.org/ethics-at-the-core-of-practice/
+
+http://www.ethicsingraphicdesign.org/wp-content/uploads/2019/06/Screen-Shot-2019-06-13-at-9.52.48-AM-768x619.png
 
 ++++++++++++++++++++++++++++
 
