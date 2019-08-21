@@ -38,7 +38,8 @@ Design Tensions:
 1. To One's Self & One's Colleagues
 2. To The Client
 3. To The Public
-4. To The Art of Design itself
+4. To The Environment/World/Universe
+5. To The Art of Design itself
 
 (Where do printers, paper makers, etc. fit into this? Colleagues?)
 
@@ -50,9 +51,9 @@ there aren't edge cases; just people
 
 But there are cases where you are designing something for a regime you disagree with, or to be misused as symbols for things that don't really exist! (freedom, democracy?)
 
-Is Graphic Design a moral issue? Well, life and human situations are moral issues -- and Graphic Design/Communication Design helps mediate human situations; so isn't it then a moral issue?
+Is Graphic Design a moral issue? Human situations are moral issues -- and Graphic Design/Communication Design helps mediate human situations; so isn't it then yes, a moral issue?
 
-Practice two things in your designing: either help or do not harm to cultures, societies, and most importantly our planet. (A Hippocratic path for designing???)
+Practice two things in your designing: either help or do no harm to cultures, societies, and most importantly our planet. (A Hippocratic path for designing???)
 
 ++++++++++++++++++++++++++++
 
