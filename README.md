@@ -83,7 +83,7 @@ Design Tensions:
 1. To One's Self & One's Colleagues
 2. To The Client
 3. To The Public
-4. To The Environment/World/Universe
+4. To The World (the more than human)
 5. To The Art of Design itself
 
 (Where do printers, paper makers, etc. fit into this? Colleagues?)
