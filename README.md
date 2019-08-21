@@ -18,13 +18,58 @@ Victor Papaenk, _Design for the Real World_, 1971
 
 ## Ethics.
 
+General Definitions:
+
+### [Merriam Webster](https://www.merriam-webster.com/dictionary/ethic)
+
+- the discipline dealing with what is good and bad and with moral duty and obligation
+- a set of moral principles : a theory or system of moral values 
+- the principles of conduct governing an individual or a group 
+- a guiding philosophy
+
+Ethics and morals are both used in the plural and are often regarded as synonyms, but there is some distinction in how they are used. Morals often describes one's particular values concerning what is right and what is wrong. While ethics can refer broadly to moral principles, one often sees it applied to questions of correct behavior within a relatively narrow area of activity. Morals usually connotes an element of subjective preference, while ethics tends to suggest aspects of universal fairness and the question of whether or not an action is responsible
+
+### [Business Dictionary](http://www.businessdictionary.com/definition/ethics.html)
+
+**Ethics/Personal Ethics:** The basic concepts and fundamental principles of decent human conduct. It includes study of universal values such as the essential equality of all men and women, human or natural rights, obedience to the law of land, concern for health and safety and, increasingly, also for the natural environment. / The basic principles and values that govern interactions among individuals. Sound personal ethics are typically those that positively impact the experience of others when used to govern an individual's social or business related behavior, and at the very least, such ethics should not have a negative impact on others.
+
+**Morality:** Conformance to a recognized code, doctrine, or system of rules of what is right or wrong and to behave accordingly. No system of morality is accepted as universal, and the answers to the question "What is morality?" differ sharply from place to place, group to group, and time to time. For some it means conscious and deliberate effort in guiding one's conduct by reason based on fairness and religious beliefs. For others it is, in the words of the UK mathematician and philosopher Alfred North Whitehead (1861-1947), "... what the majority then and there happen to like, and immorality is what they dislike."
+
+### [Cambridge Dictionary]()
+- a system of accepted beliefs that control behaviour, especially such a system based on morals
+- Social responsiblity
+
+### [Wikipedia](https://en.wikipedia.org/wiki/Ethics)
+- relating to one's character
+- a set of concepts and principles that guide us in determining what behavior helps or harms sentient creatures
+- moral principles of a particular tradition, group or individual
+- think critically about moral values and direct our actions in terms of such values
+- standards for the rightness and wrongness of actions (Normative Ethics)
+
+### [BBC](http://www.bbc.co.uk/ethics/introduction/intro_1.shtml)
+Moral somewhere-in-between-ism: Most non-philosophers think that both of the above theories have some good points and think that
+- there are a few absolute ethical rules
+- but a lot of ethical rules depend on the culture
+
+### [Stanford Encyclopedia of Philosophy]
+
+#### From https://plato.stanford.edu/entries/feminism-environmental/
+- the rightness or wrongness of actions is determined by reference to the consequences of those actions—a familiar consequentialist ethical principle. However, for Leopold, the relevant consequences are the “integrity, stability, and beauty of the biotic community”
+- defend a notion of the self as a relational, ecological being who is a member of the larger biotic (living, organic, ecological) community.
+
 ## Design Ethics?
 
-Design ethcis are meant to help us collectively understand what we should expect from each other and how we should use deisgn out in the world.
+What are your intentions when you design something?
+
+Design ethics are meant to help us collectively understand what we should expect from each other and how we should use deisgn out in the world.
 
 We can spin “Do No Harm” into a pretty good criteria for ethically designing.
 
 Focus on doing no harm to the public; then worry about the client; then worry about one's ego; and make sure you don't let down design/your fellow designers... ?
+
+How should ethical (moral?) principles guide design operations (deisgn solutions? design processes? design projects? designed outcomes?)
+
+clearly lay out the rules for behavior
 
 ++++++++++++++++++++++++++++
 
@@ -54,6 +99,18 @@ But there are cases where you are designing something for a regime you disagree 
 Is Graphic Design a moral issue? Human situations are moral issues -- and Graphic Design/Communication Design helps mediate human situations; so isn't it then yes, a moral issue?
 
 Practice two things in your designing: either help or do no harm to cultures, societies, and most importantly our planet. (A Hippocratic path for designing???)
+
+deep ecology/shallow ecology?
+
+abandon the “culture versus nature” dualism
+
+humans are just one strand in a greater biotic web
+
+It's time. This is our last chance to do anything about the global climate and ecological emergency. Our last chance to save the world as we know it. 
+
+A note about terminology is relevant here. Many ecofeminist philosophers distinguish between the oppression of women and the (unjustified) domination of nature. (from https://plato.stanford.edu/entries/feminism-environmental/)
+
+Sexism, racism, classism, heterosexism, and ethnocentrism are examples of unjustified “-isms of domination” (from: https://plato.stanford.edu/entries/feminism-environmental/)
 
 ++++++++++++++++++++++++++++
 
@@ -87,3 +144,4 @@ Reference/Research/Things I Came Across:
 - https://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/model_rules_of_professional_conduct_table_of_contents/
 - https://law.duke.edu/lib/researchguides/legale/
 - https://www.calbar.ca.gov/Attorneys/Conduct-Discipline/Rules/Rules-of-Professional-Conduct/Current-Rules
+- http://www.bbc.co.uk/ethics/introduction/intro_1.shtml
